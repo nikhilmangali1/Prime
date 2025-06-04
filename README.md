@@ -1,4 +1,4 @@
-# Prime Checker API
+![image](https://github.com/user-attachments/assets/220da90d-b0ce-44a5-a845-69f726794b17)# Prime Checker API
 
 ## How to Run
 
@@ -43,4 +43,9 @@ http://localhost:8080/api/prime/17
 ## Here are some example outputs.
 
 ![Screenshot1](assets/17.png)
+![Screenshot1](assets/25.png)
+![Screenshot1](assets/xyz.png)
+![Screenshot1](assets/@8d.png)
+![Screenshot1](assets/-64.png)
+
 
