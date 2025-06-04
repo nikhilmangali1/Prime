@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/220da90d-b0ce-44a5-a845-69f726794b17)# Prime Checker API
+# Prime Checker API
 
 ## How to Run
 
