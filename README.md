@@ -39,3 +39,6 @@ http://localhost:8080/api/prime/17
     "number": 17
 }
 ```
+
+## Here are some example outputs.
+
